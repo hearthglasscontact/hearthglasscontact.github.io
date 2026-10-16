@@ -3,7 +3,7 @@
 Site public du studio **HearthGlass** — héberge la politique de confidentialité couvrant toutes les applications HearthGlass (Meta Horizon Store).
 
 🌐 **Privacy policy : https://hearthglasscontact.github.io/policy/** (la racine redirige dessus)
-💬 **Discord : https://hearthglasscontact.github.io/discord/** → https://discord.gg/wXPVvH9xw
+💬 **Discord : https://hearthglasscontact.github.io/discord/** → https://discord.gg/mNaNuKwt8
 
 ⚠️ Ne jamais supprimer ce repo ou cette page : Meta revérifie périodiquement l'URL de la privacy policy déclarée dans les fiches store.
 
